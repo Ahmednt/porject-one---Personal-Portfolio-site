@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="422" height="416" viewBox="0 0 422 416">
+  <g id="hero_desgin" data-name="hero desgin" transform="translate(-1381 -320)">
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(1590 320)" fill="#516e31" stroke="#707070" stroke-width="1">
+      <rect width="118" height="108" rx="26" stroke="none"/>
+      <rect x="0.5" y="0.5" width="117" height="107" rx="25.5" fill="none"/>
+    </g>
+    <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(1587 520)" fill="#516e31" stroke="#707070" stroke-width="1">
+      <rect width="118" height="108" rx="26" stroke="none"/>
+      <rect x="0.5" y="0.5" width="117" height="107" rx="25.5" fill="none"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(1474 428)" fill="#f0f3ed" stroke="#707070" stroke-width="1">
+      <rect width="118" height="108" rx="26" stroke="none"/>
+      <rect x="0.5" y="0.5" width="117" height="107" rx="25.5" fill="none"/>
+    </g>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(1474 628)" fill="#f0f3ed" stroke="#707070" stroke-width="1">
+      <rect width="118" height="108" rx="26" stroke="none"/>
+      <rect x="0.5" y="0.5" width="117" height="107" rx="25.5" fill="none"/>
+    </g>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(1685 420)" fill="#777d70" stroke="#707070" stroke-width="1" opacity="0.5">
+      <rect width="118" height="108" rx="26" stroke="none"/>
+      <rect x="0.5" y="0.5" width="117" height="107" rx="25.5" fill="none"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(1381 528)" fill="#777d70" stroke="#707070" stroke-width="1">
+      <rect width="118" height="108" rx="26" stroke="none"/>
+      <rect x="0.5" y="0.5" width="117" height="107" rx="25.5" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1592 428)" fill="#13c6d7" stroke="#707070" stroke-width="1">
+      <ellipse cx="46.5" cy="46" rx="46.5" ry="46" stroke="none"/>
+      <ellipse cx="46.5" cy="46" rx="46" ry="45.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(1497 536)" fill="#f9e808" stroke="#707070" stroke-width="1">
+      <ellipse cx="46.5" cy="46" rx="46.5" ry="46" stroke="none"/>
+      <ellipse cx="46.5" cy="46" rx="46" ry="45.5" fill="none"/>
+    </g>
+  </g>
+</svg>
